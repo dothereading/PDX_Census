@@ -1,6 +1,6 @@
 # PDX Census
 
-![alt tag](census+preview.png)
+![PDX Census](census_preview.png)
 
 Visualizing housing data in Portland, with data from the 2010 US Census. 
 This `R` application was built using the `leaflet`, `shiny`, and `ggplot` packages. 
