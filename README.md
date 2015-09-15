@@ -1,4 +1,4 @@
-# PDX Census
+# PDX Census App
 
 ![PDX Census](census_preview.png)
 
